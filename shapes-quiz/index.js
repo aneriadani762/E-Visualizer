@@ -138,13 +138,11 @@ submit.addEventListener('click', () => {
 
     if(questionCount < quizShapes.length){
         loadQuestion();
-    }
-    else{
+    }else{
 
         showScore.innerHTML = `
-
         <h3> You scored ${score}/${quizShapes.length} ✌️</h3>
-        <button class="btn" onclick="Location.reload()">Play Again!</button>
+        <button class="btn" onclick="location.reload()">Play Again!</button>
 
         `;
 
