@@ -1,1 +1,0 @@
-# E-Visualizer for Kids.
