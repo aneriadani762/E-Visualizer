@@ -3,57 +3,57 @@
 let questions = [
   {
   numb: 1,
-  question: "A  solid object has 6 faces, 12 edges and 8 corners. This object could be a...?",
-  answer: "Cuboid",
+  question: "What is the biggest planet in our solar system?",
+  answer: "Jupiter",
   options: [
-      "Cylinder",
-      "Cuboid",
-      "Cone",
-      "Sphere"
+      "Jupiter",
+      "Earth",
+      "Pluto",
+      "Saturn"
   ]
 },
   {
   numb: 2,
-  question: "How many faces does a Cube have?",
-  answer: "6",
+  question: "What is the name of the closest star to the earth?",
+  answer: "Sun",
   options: [
-    "8",
-    "6",
-    "10",
-    "12"
+    "Titan",
+    "Sun",
+    "Mars",
+    "Moon"
   ]
 },
   {
   numb: 3,
-  question: "A perfectly round solid is called a...?",
-  answer: "Sphere",
+  question: "Which of these planets is the farthest from the Sun?",
+  answer: "Neptune",
   options: [
-    "Cylinder",
-    "Cuboid",
-    "Cone",
-    "Sphere"
+    "Venus",
+    "Earth",
+    "Jupiter",
+    "Neptune"
   ]
 },
   {
   numb: 4,
-  question: "How many flat faces does a Cylinder have?",
-  answer: "2",
+  question: "What is the third planet from the Sun?",
+  answer: "Earth",
   options: [
-    "0",
-    "2",
-    "4",
-    "1"
+    "Earth",
+    "Mars",
+    "Mercury",
+    "Venus"
   ]
 },
   {
   numb: 5,
-  question: "How many edges does a cube have?",
-  answer: "12",
+  question: "Which planet is closet to the Sun?",
+  answer: "Mercury",
   options: [
-    "6",
-    "8",
-    "12",
-    "10"
+    "Mars",
+    "Mercury",
+    "Venus",
+    "Earth"
   ]
 },
 // you can uncomment the below codes and make duplicate as more as you want to add question
